@@ -1,12 +1,14 @@
-﻿using System;
+﻿
+using System;
 
 namespace DotNetPrimer
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main( string[] args )
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine( "Hello World!" );
+            Console.WriteLine( "Hello .NET and C# World!" );
         }
     }
 }

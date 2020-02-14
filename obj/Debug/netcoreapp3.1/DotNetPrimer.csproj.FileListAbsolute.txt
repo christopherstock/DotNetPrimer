@@ -9,3 +9,14 @@
 /Users/stock/workspaces/.NET/DotNetPrimer/obj/Debug/netcoreapp3.1/DotNetPrimer.AssemblyInfo.cs
 /Users/stock/workspaces/.NET/DotNetPrimer/obj/Debug/netcoreapp3.1/DotNetPrimer.dll
 /Users/stock/workspaces/.NET/DotNetPrimer/obj/Debug/netcoreapp3.1/DotNetPrimer.pdb
+/Users/stock/workspaces/DotNet/DotNetPrimer/bin/Debug/netcoreapp3.1/DotNetPrimer
+/Users/stock/workspaces/DotNet/DotNetPrimer/bin/Debug/netcoreapp3.1/DotNetPrimer.deps.json
+/Users/stock/workspaces/DotNet/DotNetPrimer/bin/Debug/netcoreapp3.1/DotNetPrimer.runtimeconfig.json
+/Users/stock/workspaces/DotNet/DotNetPrimer/bin/Debug/netcoreapp3.1/DotNetPrimer.runtimeconfig.dev.json
+/Users/stock/workspaces/DotNet/DotNetPrimer/bin/Debug/netcoreapp3.1/DotNetPrimer.dll
+/Users/stock/workspaces/DotNet/DotNetPrimer/bin/Debug/netcoreapp3.1/DotNetPrimer.pdb
+/Users/stock/workspaces/DotNet/DotNetPrimer/obj/Debug/netcoreapp3.1/DotNetPrimer.csprojAssemblyReference.cache
+/Users/stock/workspaces/DotNet/DotNetPrimer/obj/Debug/netcoreapp3.1/DotNetPrimer.AssemblyInfoInputs.cache
+/Users/stock/workspaces/DotNet/DotNetPrimer/obj/Debug/netcoreapp3.1/DotNetPrimer.AssemblyInfo.cs
+/Users/stock/workspaces/DotNet/DotNetPrimer/obj/Debug/netcoreapp3.1/DotNetPrimer.dll
+/Users/stock/workspaces/DotNet/DotNetPrimer/obj/Debug/netcoreapp3.1/DotNetPrimer.pdb

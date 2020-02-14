@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/stock/workspaces/.NET/DotNetPrimer/DotNetPrimer.csproj": {}
+    "/Users/stock/workspaces/DotNet/DotNetPrimer/DotNetPrimer.csproj": {}
   },
   "projects": {
-    "/Users/stock/workspaces/.NET/DotNetPrimer/DotNetPrimer.csproj": {
+    "/Users/stock/workspaces/DotNet/DotNetPrimer/DotNetPrimer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/stock/workspaces/.NET/DotNetPrimer/DotNetPrimer.csproj",
+        "projectUniqueName": "/Users/stock/workspaces/DotNet/DotNetPrimer/DotNetPrimer.csproj",
         "projectName": "DotNetPrimer",
-        "projectPath": "/Users/stock/workspaces/.NET/DotNetPrimer/DotNetPrimer.csproj",
+        "projectPath": "/Users/stock/workspaces/DotNet/DotNetPrimer/DotNetPrimer.csproj",
         "packagesPath": "/Users/stock/.nuget/packages/",
-        "outputPath": "/Users/stock/workspaces/.NET/DotNetPrimer/obj/",
+        "outputPath": "/Users/stock/workspaces/DotNet/DotNetPrimer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/stock/.nuget/NuGet/NuGet.Config"
