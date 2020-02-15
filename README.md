@@ -95,22 +95,22 @@ Laufen alle Tests korrekt durch, so wird lediglich `BUILD SUCCESSFUL` auf der Ko
 
 Die folgenden Aufgaben können im Rahmen eines Coding Dojos oder im Workshopformat durchgeführt werden:
 
-1. Instanziieren Sie die neue Klasse `AppFrame` in der `main`-Methode und rufen Sie deren nicht-statischer Methode
- `show()` auf.
-2. Erstellen und Konfektionieren Sie eine Instanz von `JFrame` im Konstruktor der Klasse `AppFrame` und fügen Sie dem
- `JFrame` eine Instanz von `JPanel` hinzu. 
-3. Erstellen und Konfektionieren Sie einen `JButton` und ein `JTextField` und fügen Sie die beiden Objekte zum
- `JPanel` hinzu. Das Textfeld soll `read-only` sein.
-4. Fügen Sie dem Button einen `ActionListener` hinzu, als der die Klasse `AppFrame` fungieren soll.
- Beim Klick auf den `JButton` soll vorerst eine Ausgabe auf der Ausgabekonsole erscheinen.
-
 ![NuGet](https://github.com/christopherstock/DotNetPrimer/raw/master/_ASSET/readme/logo_nuget.png)
 
-5. Installieren Sie die aktuellste Version der Bibliothek `google-http-client` aus dem Maven Repository via Gradle.
-6. Erstellen Sie beim Klick auf den Button einen GET-Request zum Requesten eines zufälligen Witzes aus der 
+1. Installieren Sie die aktuellste Version des Pakets **Extended.Wpf.Toolkit** aus der **NuGet Gallery**.
+2. Instanziieren Sie die neue Klasse `AppFrame` in der `main`-Methode und rufen Sie deren nicht-statischer Methode
+ `show()` auf.
+3. Erstellen und Konfektionieren Sie eine Instanz von `JFrame` im Konstruktor der Klasse `AppFrame` und fügen Sie dem
+ `JFrame` eine Instanz von `JPanel` hinzu. 
+4. Erstellen und Konfektionieren Sie einen `JButton` und ein `JTextField` und fügen Sie die beiden Objekte zum
+ `JPanel` hinzu. Das Textfeld soll `read-only` sein.
+5. Fügen Sie dem Button einen `ActionListener` hinzu, als der die Klasse `AppFrame` fungieren soll.
+ Beim Klick auf den `JButton` soll vorerst eine Ausgabe auf der Ausgabekonsole erscheinen.
+6. Installieren Sie die aktuellste Version der Bibliothek `google-http-client` aus dem Maven Repository via Gradle.
+7. Erstellen Sie beim Klick auf den Button einen GET-Request zum Requesten eines zufälligen Witzes aus der 
  **International Chuck Norris Database** unter der URL `http://api.icndb.com/jokes/random`.
-7. Geben Sie den Response Body als String in der Konsole aus.
-8. Fügen Sie das automatische Parsen des Response Bodies in eine Instanz der neuen Klasse **JokeResponse** hinzu.
+8. Geben Sie den Response Body als String in der Konsole aus.
+9. Fügen Sie das automatische Parsen des Response Bodies in eine Instanz der neuen Klasse **JokeResponse** hinzu.
  Diese Datenklasse soll die Struktur des JSON-Response-Bodies repräsentieren.
-9. Zeigen Sie den Witz im Ausgabefeld an.
-10. Lagern Sie die Funktionalität des Request- und des Response-Handlings in eine neue Klasse API aus.
+10. Zeigen Sie den Witz im Ausgabefeld an.
+11. Lagern Sie die Funktionalität des Request- und des Response-Handlings in eine neue Klasse API aus.
