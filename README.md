@@ -1,29 +1,26 @@
 
 # .NET 101
 
-![Java](https://github.com/christopherstock/DotNetPrimer/raw/master/_ASSET/readme/logo_java.png)
+![.NET](https://github.com/christopherstock/DotNetPrimer/raw/master/_ASSET/readme/logo_dotnet.png)
 
-Dieser Java-Workshop behandelt die wichtigsten Grundlagen der Programmiersprache Java. Mit Hilfe des Paketmanagers 
- **Gradle** erstellen wir ein neues Java-Projekt von Grund auf. Entwickelt wird eine kleine UI-Anwendung, mit der
+Dieser Workshop behandelt die wichtigsten Grundlagen des Microsoft .NET-Frameworks sowie der Programmiersprache C#. Mit Hilfe des DotNet CLI Befehls
+ und des .NET-Paketmanagers **NuGet** erstellen wir ein .NET-Projekt von Grund auf. Entwickelt wird eine kleine UI-Anwendung, mit der
  auf Knopfdruck ein Witz aus der **International Chuck Norris Database** angefordert und in unserer Anwendung
- angezeigt wird. Für das Handling der HTTP-Request- u. -Responses soll eine moderne Java Bibliothek verwendet werden.
+ angezeigt wird. Für das Handling der HTTP-Request- u. -Responses soll eine moderne Bibliothek aus der **NuGet Gallery** verwendet werden.
 
 <hr>
 
 ## Tech Stack
 
-- Gradle 6.1.1
-- JDK 13.0.1
-- JUnit 4.12
-- Google HTTP Client 1.34.1
+- .NET Core 3.1
+- NUnit 3.12.0
+- System.Net.Http 4.3.4
 
 <hr>
 
 ## Projekt-Setup
 
-![gradle](https://github.com/christopherstock/DotNetPrimer/raw/master/_ASSET/readme/logo_gradle.png)
-
-### 1. Gradle-Projekt anlegen
+### 1. DotNet-Projekt anlegen
 
 Erstellen Sie einen neuen Ordner mit einem beliebigen Namen für das Projekt. Wechseln Sie in diesen Ordner und
  initialisieren Sie ein neues Gradle-Projekt mit dem folgenden Befehl:
@@ -55,7 +52,7 @@ Alle Sourcecodes für das Projekt siedeln somit an unter:
 
 Es empfiehlt sich, diesen Pfad in der IDE Ihrer Wahl explizit als **Sources Root** zu definieren.
 
-![Junit](https://github.com/christopherstock/DotNetPrimer/raw/master/_ASSET/readme/logo_junit.png)
+![NUnit](https://github.com/christopherstock/DotNetPrimer/raw/master/_ASSET/readme/logo_nunit.png)
 
 ### 2.2. Tests
 
@@ -106,6 +103,9 @@ Die folgenden Aufgaben können im Rahmen eines Coding Dojos oder im Workshopform
  `JPanel` hinzu. Das Textfeld soll `read-only` sein.
 4. Fügen Sie dem Button einen `ActionListener` hinzu, als der die Klasse `AppFrame` fungieren soll.
  Beim Klick auf den `JButton` soll vorerst eine Ausgabe auf der Ausgabekonsole erscheinen.
+
+![NuGet](https://github.com/christopherstock/DotNetPrimer/raw/master/_ASSET/readme/logo_nuget.png)
+
 5. Installieren Sie die aktuellste Version der Bibliothek `google-http-client` aus dem Maven Repository via Gradle.
 6. Erstellen Sie beim Klick auf den Button einen GET-Request zum Requesten eines zufälligen Witzes aus der 
  **International Chuck Norris Database** unter der URL `http://api.icndb.com/jokes/random`.
