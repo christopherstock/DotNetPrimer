@@ -98,9 +98,8 @@ Die folgenden Aufgaben können im Rahmen eines Coding Dojos oder im Workshopform
 ![NuGet](https://github.com/christopherstock/DotNetPrimer/raw/master/_ASSET/readme/logo_nuget.png)
 
 1. Installieren Sie die aktuellste Version des Pakets **Extended.Wpf.Toolkit** aus der **NuGet Gallery**.
-
-2. Instanziieren Sie die neue Klasse `AppFrame` in der `main`-Methode und rufen Sie deren nicht-statischer Methode
- `show()` auf.
+2. Erstellen Sie eine neue Klasse `AppFrame` und instanziieren Sie diese aus der der `main`-Methode der Klasse App.
+ Rufen Sie danach die nicht-statischer Methode `show()` dieser Instanz auf.
 3. Erstellen und Konfektionieren Sie eine Instanz von `JFrame` im Konstruktor der Klasse `AppFrame` und fügen Sie dem
  `JFrame` eine Instanz von `JPanel` hinzu. 
 4. Erstellen und Konfektionieren Sie einen `JButton` und ein `JTextField` und fügen Sie die beiden Objekte zum
