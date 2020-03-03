@@ -1,35 +1,35 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "/Users/stock/.nuget/packages/": {}
+    "C:\\Users\\stock\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/stock/workspaces/DotNet/DotNetPrimer/DotNetPrimer.csproj",
+      "projectUniqueName": "C:\\Users\\stock\\workspaces\\dotnet\\DotNetPrimer\\DotNetPrimer.csproj",
       "projectName": "DotNetPrimer",
-      "projectPath": "/Users/stock/workspaces/DotNet/DotNetPrimer/DotNetPrimer.csproj",
-      "packagesPath": "/Users/stock/.nuget/packages/",
-      "outputPath": "/Users/stock/workspaces/DotNet/DotNetPrimer/obj/",
+      "projectPath": "C:\\Users\\stock\\workspaces\\dotnet\\DotNetPrimer\\DotNetPrimer.csproj",
+      "packagesPath": "C:\\Users\\stock\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\stock\\workspaces\\dotnet\\DotNetPrimer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/stock/.config/NuGet/NuGet.Config"
+        "C:\\Users\\stock\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.1"
+        "netcoreapp3.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "netcoreapp3.0": {
           "projectReferences": {}
         }
       },
@@ -40,7 +40,7 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {
+      "netcoreapp3.0": {
         "imports": [
           "net461",
           "net462",
@@ -56,7 +56,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet-sdk-3.0.103-win-x64\\sdk\\3.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
